@@ -1,13 +1,14 @@
 # chaoxing-api
 
 超星/超星尔雅/智慧树题库查题接口API
-更新时间: 2020/4/25 14:30:32
+更新时间: 2020/4/26 15:50:32
 
+# 域名备案掉了，原域名80端口不能使用，现在一律改用新域名test.vcing.top
 # 接口格式
 
-http://blog.vcing.top/api.php?key=chaoxing&q={问题}
+http://test.vcing.top:81/api.php?key=chaoxing&q={问题}
 例如：
-http://blog.vcing.top/api.php?key=chaoxing&q=大学生心理健康
+http://test.vcing.top:81/api.php?key=chaoxing&q=大学生心理健康
 
 # 返回格式
 
@@ -18,9 +19,9 @@ http://blog.vcing.top/api.php?key=chaoxing&q=大学生心理健康
 
 # JSON接口格式
 
-http://blog.vcing.top/japi.php?key=chaoxing&q={问题}
+http://test.vcing.top:81/japi.php?key=chaoxing&q={问题}
 例如：
-http://blog.vcing.top/japi.php?key=chaoxing&q=大学生心理健康
+http://test.vcing.top:81/japi.php?key=chaoxing&q=大学生心理健康
 
 # 返回格式
 

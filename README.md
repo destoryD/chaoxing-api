@@ -1,14 +1,14 @@
 # chaoxing-api
 
 超星/超星尔雅/智慧树题库查题接口API
-更新时间: 2020/4/27 13:43:10
+更新时间: 2020/4/30 18:43:10
 
 声明:本接口并非从超星获取答案，而是从搜集而来的题目数据库中搜索！
 
-# 已更换新服务器，原接口和现有接口均已恢复正常
+# 近日检测到爬虫爬取数据库，请不要使用爬虫，否则会被加入黑名单
+# 已更换新服务器，请使用现有接口
 # 接口格式
 
-原接口:http://blog.vcing.top/api.php?key=chaoxing&q={问题}
 http://test.vcing.top:81/api.php?key=chaoxing&q={问题}
 例如：
 http://test.vcing.top:81/api.php?key=chaoxing&q=大学生心理健康
@@ -22,7 +22,6 @@ http://test.vcing.top:81/api.php?key=chaoxing&q=大学生心理健康
 
 # JSON接口格式
 
-原接口:http://blog.vcing.top/japi.php?key=chaoxing&q={问题}
 http://test.vcing.top:81/japi.php?key=chaoxing&q={问题}
 例如：
 http://test.vcing.top:81/japi.php?key=chaoxing&q=大学生心理健康

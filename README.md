@@ -4,4 +4,4 @@
 
 QQ群交流(1032761099)
 
-!(/index.jpeg)
+![主页图片](/index.jpeg)

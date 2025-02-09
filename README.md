@@ -1,6 +1,6 @@
 # LIKE知识库-限时免费使用中
 **网站主页：https://www.datam.site**
-![主页图片](/index.jpeg)
+![主页图片](/new_index.jpeg)
 
 网站主页提供测试页面，可以进行体验
 
